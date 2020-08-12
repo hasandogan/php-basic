@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbfde2be-2ac2-4bff-bcbd-0a3a2b5db0a5" name="Default Changelist" comment="Learn PHP&#10;Course 1,2,3&#10;finish" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1frgXN4CI8rHje0LXsENtbIkkKk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbfde2be-2ac2-4bff-bcbd-0a3a2b5db0a5" name="Default Changelist" comment="" />
+      <created>1596981664673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596981664673</updated>
+      <workItem from="1596981665849" duration="184000" />
+      <workItem from="1596981855496" duration="13653000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Learn PHP&#10;Course 1,2,3&#10;" />
+    <MESSAGE value="Learn PHP&#10;Course 1,2,3&#10;finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learn PHP&#10;Course 1,2,3&#10;finish" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2584" y="365" width="582" height="357" key="#Notifications" timestamp="1597040502346">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2584" y="365" width="582" height="357" key="#Notifications/1920.0.1920.1080/72.27.1848.1053@1920.0.1920.1080" timestamp="1597040502346" />
+    <state x="161" y="458" width="1397" height="301" key="#SQL_Dialects" timestamp="1596988282497">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="161" y="458" width="1397" height="301" key="#SQL_Dialects/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1596988282497" />
+    <state x="2338" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597040855333">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2338" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/72.27.1848.1053@1920.0.1920.1080" timestamp="1597040855333" />
+    <state x="2298" y="69" width="912" height="935" key="CommitChangelistDialog2" timestamp="1597040840866">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2298" y="69" width="912" height="935" key="CommitChangelistDialog2/1920.0.1920.1080/72.27.1848.1053@1920.0.1920.1080" timestamp="1597040840866" />
+    <state x="2651" y="283" width="447" height="527" key="FileChooserDialogImpl" timestamp="1597040704162">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2651" y="283" width="447" height="527" key="FileChooserDialogImpl/1920.0.1920.1080/72.27.1848.1053@1920.0.1920.1080" timestamp="1597040704162" />
+    <state x="2662" y="496" width="417" height="165" key="Github.CreateGistDialog" timestamp="1597040416695">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2662" y="496" width="417" height="165" key="Github.CreateGistDialog/1920.0.1920.1080/72.27.1848.1053@1920.0.1920.1080" timestamp="1597040416695" />
+    <state x="2730" y="440" width="299" height="207" key="Github.ShareDialog" timestamp="1597040549349">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2730" y="440" width="299" height="207" key="Github.ShareDialog/1920.0.1920.1080/72.27.1848.1053@1920.0.1920.1080" timestamp="1597040549349" />
+    <state x="2294" y="147" width="1022" height="737" key="SettingsEditor" timestamp="1597040538342">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="305" y="244" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1596982025334" />
+    <state x="2294" y="147" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/72.27.1848.1053@1920.0.1920.1080" timestamp="1597040538342" />
+    <state x="2475" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1597040889993">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/72.27.1848.1053@1920.0.1920.1080" timestamp="1597040889993" />
+    <state x="2529" y="161" width="683" height="780" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597040239498">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2529" y="161" width="683" height="780" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/72.27.1848.1053@1920.0.1920.1080" timestamp="1597040239498" />
+    <state x="2684" y="452" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597040880518">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2684" y="452" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog/1920.0.1920.1080/72.27.1848.1053@1920.0.1920.1080" timestamp="1597040880518" />
+    <state x="2713" y="334" width="324" height="419" key="svn.repositoryBrowser" timestamp="1597040280816">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2713" y="334" width="324" height="419" key="svn.repositoryBrowser/1920.0.1920.1080/72.27.1848.1053@1920.0.1920.1080" timestamp="1597040280816" />
+    <state x="2641" y="311" width="469" height="472" key="svn4idea.import.options" timestamp="1597040273385">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2641" y="311" width="469" height="472" key="svn4idea.import.options/1920.0.1920.1080/72.27.1848.1053@1920.0.1920.1080" timestamp="1597040273385" />
+  </component>
+</project>

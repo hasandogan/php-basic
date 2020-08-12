@@ -1,0 +1,18 @@
+{
+    "name": "knpuniversity/php-beginner-series",
+    "require-dev": {
+        "symfony/dom-crawler": "~2.7",
+        "symfony/http-foundation": "~2.7"
+    },
+    "authors": [
+        {
+            "name": "Ryan Weaver",
+            "email": "ryan@knpuniversity.com"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "5.3.9"
+        }
+    }
+}
